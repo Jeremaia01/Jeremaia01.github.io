@@ -1,0 +1,29 @@
+references:
+https://codepen.io/glebkema/pen/RdWJzB?css-preprocessor=none
+https://css-tricks.com/adding-stroke-to-web-text/
+https://freefrontend.com/css-gallery/
+https://css-tricks.com/fun-viewport-units/
+https://www.w3schools.com/css/css3_object-fit.asp
+https://www.awwwards.com/websites/gallery/
+https://www.w3schools.com/howto/howto_website_bootstrap.asp
+https://www.codingnepalweb.com/category/login-form/
+https://geekalgo.com/html-css/how-to-make-a-button-in-html-with-hover-effects/
+
+
+	Author              Gabrielle Wee        March 6, Author              Bennett Feely        January 20, Author              Blaseball Cares        December 8, Author              Jhey        July 23, Author              Cynthia Costa        June 25, Author              Vaibhav Sharma        July 6, Author              Alina N.        May 22, Author              Lubna        April 25, Author              Tanisha J.        March 12, Author              Russ Perry        January 22, Author              Ana Tudor        January 21, Author              iGadget        January 20, Author              Ludmila Tretyakova        December 10, Author              yoksel        November 20, Author              Malaika Ishtiaq        July 27, Author              ycw        May 29, Author              Mert Cukuren        March 7, Author              Gabriela Johnson        February 28, Author              Daniel Subat        January 23, … Author          Foliodot16.03.2017. (n.d.). 57 CSS galleries. Free Frontend. Retrieved May 7, 2023, from https://freefrontend.com/css-gallery/ 
+	
+	Best gallery websites: Web design inspiration. Best Gallery Websites | Web Design Inspiration. (n.d.). Retrieved May 7, 2023, from https://www.awwwards.com/websites/gallery/ 
+	
+	Chris Coyier                      on                        Sep 12, &amp; Coyier, C. (2022, September 22). Adding stroke to web&nbsp;text: CSS-tricks. CSS. Retrieved May 7, 2023, from https://css-tricks.com/adding-stroke-to-web-text/ 
+	
+	CSS The object-fit property. CSS object-fit Property. (n.d.). Retrieved May 7, 2023, from https://www.w3schools.com/css/css3_object-fit.asp 
+	
+	How to - make a website with bootstrap. How To Make a Website with Bootstrap. (n.d.). Retrieved May 7, 2023, from https://www.w3schools.com/howto/howto_website_bootstrap.asp
+	
+	Login form. CodingNepal. (2023, April 18). Retrieved May 7, 2023, from https://www.codingnepalweb.com/category/login-form/ 
+	
+	Miriam Suzanne on Jun 5, &amp; Suzanne, M. (2022, May 23). Fun with viewport units: CSS-tricks. CSS. Retrieved May 7, 2023, from https://css-tricks.com/fun-viewport-units/ 
+	
+	Patlow. (2022, May 17). How to make a button in HTML with hover effects. Geekalgo. Retrieved May 8, 2023, from https://geekalgo.com/html-css/how-to-make-a-button-in-html-with-hover-effects/ 
+	
+	Transparent &amp; fixed header - CSS only - codepen. (n.d.). Retrieved May 7, 2023, from https://codepen.io/glebkema/pen/RdWJzB 
